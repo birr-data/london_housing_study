@@ -2,5 +2,7 @@
 Springboard Data Science program unit 4.3 assignment
 
 Dependencies: 
-  jupyter notebook
-  python 3
+
+  -jupyter notebook
+
+  -python 3
